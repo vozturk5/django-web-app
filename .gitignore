@@ -1,0 +1,16 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+*/db.sqlite3
+media
+
+# logs #
+*/cred.txt
+
+# prod
+.venv
+venv/
+web_project/static/
+.DS_Store
